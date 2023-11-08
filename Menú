@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menú del Restaurante</title>
+    <style>
+        /* Agrega estilos CSS aquí si lo deseas */
+    </style>
+</head>
+<body>
+
+    <h1>Menú del Restaurante</h1>
+
+    <section>
+        <h2>Desayunos 8 a 11 am</h2>
+        <ul>
+            <li>Tamal</li>
+            <li>Chicharrón</li>
+            <li>Lomo al jugo</li>
+            <li>Cau-cau</li>
+            <li>Chanfainita</li>
+            <li>Chicharrón</li>
+            <li>Caldo de gallina</li>
+            <li>Caldo de mote</li>
+            <li>Caldo de mote</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Panes</h2>
+        <ul>
+            <li>Pan con chicharrón</li>
+            <li>Pan con palta</li>
+            <li>Pan con pollo</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Bebidas</h2>
+        <ul>
+            <li>Café</li>
+            <li>Café con leche</li>
+            <li>Quacker</li>
+            <li>Infusiones</li>
+        </ul>
+    </section>
+
+</body>
+</html>
